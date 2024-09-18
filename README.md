@@ -28,3 +28,8 @@ Grafana connects to the PostgreSQL database to provide real-time visualizations 
 - Real-Time Data Streaming: The system updates the data every 1 minute, providing a live feed of stock prices, volume, and other metrics.
 - Data Persistence: The data is stored in a PostgreSQL database, allowing for historical analysis.
 - Dynamic Dashboards: Grafana provides interactive, real-time visualizations for monitoring stock performance over the past hour.
+
+**Future Improvements**
+
+- Add sentiment analysis based on news articles or social media to further enhance market insights.
+- Integrate machine learning models to forecast stock trends in real-time.
